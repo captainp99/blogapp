@@ -1,0 +1,44 @@
+{
+  "blogs": [
+    {
+      "title": "Easy Fried Rice Recipeeeeeee",
+      "content": "I've been holding off on doing a full fried rice story for several years now. I'm not really sure why. Fried rice is a great way to use up leftovers, it is infinitely variable, and there are plenty of variables worth testing out. Couple that with the number of rules that everyone says you simply must follow (you must use day-old rice, you must use medium-grain, et cetera), and it seems like the perfect subject for some hardcore testing and myth-busting.\n\nI figure it's time we got started.\n\nFried rice comes in many styles. In China (and more authentic Chinese restaurants in the States), it's typically lightly seasoned with salt and perhaps a little soy sauce or another sauce, along with scant amounts of aromatics and meat. In the Chinese-American tradition, you'll find it made with bigger chunks of meat, and much more sauce. It's the former style that I mostly grew up eating, and that's the style that I'm interested in for now.",
+      "like": 3,
+      "dislike": 5,
+      "datetime": "8/28/2020, 5:46:13 PM",
+      "category": "Food Blog",
+      "author": "Paras Jain",
+      "id": 1
+    },
+    {
+      "title": "Make Yogurt Popsicles With Your Fruit of Choice",
+      "content": "Close your eyes and picture the most perfect fruit-yogurt popsicle. Now, think about the qualities that make it good. Are there splashes of vibrant fruity color peeking out from yogurt’s off-white tones? Is it creamy, rich, and smooth? Is the texture light or dense?\n\nIn search of these answers, I wondered whether there were any underlying techniques that could be applied across the board. To get there, I had more questions to answer. Is plain or Greek yogurt better in a popsicle? Does the yogurt's fat percentage matter? Can we make tastier popsicles with fresh or frozen fruit? If we prefer fresh, should the fruit component be raw or cooked? And then, beyond the two main components of fruit and yogurt, there's the question of add-ins. Is additional sugar always needed? What about salt, or a splash of extra acidity in the form of citrus juice? In the end, should we fully blend the fruit and yogurt, or shoot for a swirl?\n\nI tried to answer all of these questions by developing recipes for three different fruit-yogurt pops: blueberry, raspberry, and mango, and I succeeded in creating ones that checked all the boxes—these frozen treats have a creamy, velvety smooth texture; just the right amount of bite; and a well-balanced flavor that blends tangy yogurt and sweet, rich fruit.\n\nEven though there’s no way to provide specific guidance for all possible fruits, I'm confident that the following guidelines will help get anyone on the right track when making their choice of fruit-yogurt popsicles from scratch.\n\n",
+      "like": 2,
+      "dislike": 1,
+      "datetime": "8/28/2020, 5:48:31 PM",
+      "category": "Food Blog",
+      "author": "KRISTINA RAZOON",
+      "id": 2
+    },
+    {
+      "title": "Postcards from Hanoi, Vietnam",
+      "content": "I visited Vietnam in the October of 2019 on a blogging trip with IndiGo when they launched their inaugural flight from Kolkata to Ho Chi Minh City, Vietnam. This trip happened pre-covid. If I have learned one thing in 2020, it is not to take travel for granted. In today’s post I show you some sights from the capital city of Hanoi. The first image of the Hanoi skyline at sunset from the Lotte Observation Deck.\n\nA Traditional House at the Vietnam Museum of Ethnology in Hanoi\nWe spent a few hours at the Vietnam Museum of Ethnology. The displays within the main building are impressive but I could only gather so much in my short visit. I did realized the importance of bamboo in daily life in Vietnam. A little away from the main building there are replicas of the tribal homes and you see one such home in the picture above. If you plan to visit the museum and explore it in any detail give it at least half a day!\nFridge Magnets in Hanoi, Vietnam\nI love looking at fridge magnets and postcards in a foreign land because they give me excellent photography ideas. I have benefited by looking at the gorgeous captures by knowledgeable local people in so many countries.",
+      "like": 0,
+      "dislike": 0,
+      "datetime": "8/28/2020, 5:56:02 PM",
+      "category": "Travel Blog",
+      "author": "Mridula Dwivedi",
+      "id": 3
+    },
+    {
+      "title": "Exploring Jim Corbett National Park ",
+      "content": "I visited Aahana Resort in Ramnagar in November. That was the time when pollution in Delhi/NCR was going off the charts! I was happy to leave the city behind! Ramnagar is a small town, the getaway to Jim Corbett National Park! The air was anyway a thousand times better than Gurgaon, on top of that Aahana is in middle of lush greenery! My lungs surely breathed a sigh of relief !\n\nAfter a long road journey I was hungry and looking forward to lunch! I quickly freshened up and came out looking for the dining hall! I intuitively stumbled upon it!\nAahana serves delicious food, a lot of it grown in its own field! I can’t remember when I ate such delicious ‘saag’. But the dessert counter was my absolute favorite. I noticed the glass bottles in the dining room whereas there were plastic bottles in my room. That left me a little puzzled. On asking I gathered that the guests were not supporting the use of glass bottles in the room!\n\n",
+      "like": 2,
+      "dislike": 1,
+      "datetime": "8/28/2020, 5:57:44 PM",
+      "category": "Travel Blog",
+      "author": "Mridula Dwivedi",
+      "id": 4
+    }
+  ]
+}
